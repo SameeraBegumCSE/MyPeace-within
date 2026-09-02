@@ -7,9 +7,9 @@ const dmSans = DM_Sans({ subsets: ['latin'], variable: '--font-dm-sans' })
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfair' })
 
 export const metadata: Metadata = {
-  title: 'Heal Within — Understand Your Mind. Transform Your Wellbeing.',
+  title: 'MyPeace Within — Understand Your Mind. Transform Your Wellbeing.',
   description: 'A calmer digital space for self-awareness, mindfulness and meaningful wellbeing education.',
-  generator: 'Heal Within',
+  generator: 'MyPeace Within',
   icons: {
     icon: [
       {
